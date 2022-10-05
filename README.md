@@ -1,1 +1,1 @@
-https://www.youtube.com/watch?v=bqFuiUvC1lc
+https://github.com/koldovsky/online-shop
